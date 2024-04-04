@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0;
 }
 
@@ -31,13 +31,13 @@ ul {
     justify-content: space-between;
 }
 
-p {
+h1 {
     font-size: 24px;
     font-weight: 700;
 }
 
 .title {
-    font-size: 48px;
+    font-size: 58px;
     font-weight:900;
 }
 
@@ -48,4 +48,21 @@ p {
 .two {
     display: flex;
     padding-bottom: 150px;
+}
+
+img {
+    margin-left: 100px;
+}
+
+.title,.subtitle {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #0096FF;
+    border-radius: 10px;
+    padding: 10px 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
 }
