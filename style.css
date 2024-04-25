@@ -94,6 +94,7 @@ h1 {
 .info {
     display: flex;
     flex-direction: column;
+    gap: 20px;
 }
 
 .sqr {
@@ -120,6 +121,7 @@ h1 {
     font-style: italic;
     font-size: 26px ;
     font-weight:lighter;
+    margin-bottom: 20px;
 }
 
 .tor {
